@@ -1,0 +1,16 @@
+.user-title {
+    margin-bottom: 50px;
+}
+
+.user-overview {
+    margin-bottom: 75px;
+}
+
+.progress-chart {
+    margin: 0 auto 15px auto;
+}
+
+.progress-chart-label {
+    font-size: 14px;
+    color: #525252;
+}

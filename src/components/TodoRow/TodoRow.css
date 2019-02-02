@@ -1,0 +1,41 @@
+.task-row label {
+    margin-bottom: 0;
+}
+
+.task-title {
+    cursor: text;
+    width: 100%;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #ccc;
+}
+
+.task {
+    position: relative
+}
+
+.task-button {
+    font-size: 22px;
+    cursor: pointer
+}
+
+.task-button.checkbox {
+    margin-right: 25px;
+}
+
+.task-status-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.task-edit-wrapper {
+    margin-left: 40px;
+}
+
+.task-edit {
+    outline: none;
+    border: none;
+}
